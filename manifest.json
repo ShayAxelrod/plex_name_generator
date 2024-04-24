@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Plex Name Generator",
+    "version": "1.0",
+    "description": "Generate a name according to the Plex naming convension",
+    "content_scripts": [
+        {
+            "js": ["scripts/tools.js", "scripts/imdb.js"],
+            "matches": [
+              "https://www.imdb.com/title/tt*"
+            ]
+          }
+    ],
+    "icons": {
+        "16": "images/image(6)_no_bg_16.png",
+        "32": "images/image(6)_no_bg_32.png",
+        "64": "images/image(6)_no_bg_64.png",
+        "128": "images/image(6)_no_bg_128.png"
+    },
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "plexNameGenerator@Shifi.com",
+        "strict_min_version": "42.0"
+      }
+    }    
+}
