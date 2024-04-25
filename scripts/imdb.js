@@ -15,7 +15,7 @@ function checkPageType(titleSection) {
 const titleSection = document.querySelector('h1').parentElement;
 const isSeries = checkPageType(titleSection);
 
-const title_elem = titleSection.querySelector('h1').firstElementChild;
+const title_elem = titleSection.querySelector('h1');
 let title = "NoTitle";
 if (title_elem)
     title = removeSpecialChars(title_elem.textContent);
@@ -37,5 +37,3 @@ console.log(`id: ${id}`);
 
 const content = plexStyle(title, year, `imdb-${id}`);
 const plex_elem = createPlexElement(document);
-
-console.log(span);
