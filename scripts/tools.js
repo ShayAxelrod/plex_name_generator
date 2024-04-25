@@ -14,9 +14,8 @@ function createPlexElement(document) {
     anchor.classList.add("color-secondary-text", "type--caption");
     anchor.style.display = "flex";
     anchor.style.flexDirection = "row";
-    anchor.style.justifyContent = "center";
+    anchor.style.justifyContent = "left";
     anchor.style.alignItems = "center";
-    //anchor.cssText = "display:flex; flex-direction: row; justify-content: center; align-items: center;"
 
     var txt = document.createElement('a');
     txt.textContent = ' ' + content;

@@ -1,7 +1,3 @@
-//import { removeSpecialChars,
- //        plexStyle,
-  //       createPlexElement
-   //      } from './tools.js'
 
 console.log("running")
 
