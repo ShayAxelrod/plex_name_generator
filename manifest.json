@@ -1,12 +1,16 @@
 {
     "manifest_version": 3,
     "name": "Plex Name Generator",
-    "version": "1.5",
+    "version": "1.6",
     "description": "Generate a name according to the Plex naming convension",
     "content_scripts": [
         {
           "js": ["scripts/tools.js", "scripts/imdb.js"],
           "matches": [ "https://www.imdb.com/title/tt*" ]
+        },
+        {
+          "js": ["scripts/tools.js", "scripts/thetvdb.js"],
+          "matches": [ "https://thetvdb.com/movies/*", "https://thetvdb.com/series/*" ]
         }
     ],
     "icons": {
