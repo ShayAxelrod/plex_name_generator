@@ -21,7 +21,7 @@ while (!year_elem.firstElementChild.textContent.match(/(Released|First Aired)/g)
 if (year_elem)
     year = year_elem.textContent.match(/\b\d{4}\b/)[0];
 
-const content = plexStyle(title, year, `thetvdb-${id}`);
+const content = plexStyle(title, year, `tvdb-${id}`);
 const plex_elem = createPlexElement(document, content);
 title_elem.insertAdjacentElement('afterend', plex_elem);
 title_elem.style.marginBottom = 0;
