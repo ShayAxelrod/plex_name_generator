@@ -19,5 +19,5 @@
 <div style="display:flex; justify-content:center;">
     <img src="misc_images/example_imdb_640_400.png" style="width:30%; margin-right:10px;" />
     <img src="misc_images/example_thetvdb_640_400.png" style="width:30%; margin-right:10px;" />
-    <img src="" style="width:30%;" />
+    <img src="misc_images/example_tmdb_640_400.png" style="width:30%;" />
 </div>
