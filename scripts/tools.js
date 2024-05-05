@@ -64,7 +64,7 @@ function createPlexElement(document, content) {
     txt.addEventListener('mouseenter', function() {
         txt.style.cursor = 'pointer';
     });
-        icon.addEventListener('mouseleave', function() {
+    icon.addEventListener('mouseleave', function() {
         icon.style.cursor = 'auto'; // Set to 'auto' to use the default cursor
     });
     txt.addEventListener('mouseleave', function() {
