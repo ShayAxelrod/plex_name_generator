@@ -5,7 +5,7 @@
 <h1 align="center" style="margin-top: -20px;">Plex Name Generator</h1>
 <a></a>
 
-*Plex Name Generator adds a formated string that matches Plex's naming convension. You can click on it to copy to your clipboard.*
+*Plex Name Generator adds a formated string that matches Plex's naming convention. You can click on it to copy to your clipboard.*
 
 <h3 style="margin-bottom:25px; margin-right:5px;">Works on: </h3>
 
