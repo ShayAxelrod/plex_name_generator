@@ -7,11 +7,21 @@
 
 *Plex Name Generator adds a formated string that matches Plex's naming convension. You can click on it to copy to your clipboard.*
 
+<h3 style="margin-bottom:25px; margin-right:5px;">Works on: </h3>
+
 <div style="display:flex; align-items:center;">
-    <h3 style="margin-bottom:25px; margin-right:5px;">Works on: </h3>
     <img src="misc_images/chrome_icon.png" width="32" height="32" style="margin-right:5px;" />
+    <a href="https://chromewebstore.google.com/detail/plex-name-generator/hfmhbnmmbfonbbjndbjmkgklhmggecaf">Download from Chrome Web Store</a>
+</div>
+
+<div style="display:flex; align-items:center;">
+    <img src="misc_images/firefox_icon.png" width="32" height="32" style="margin-right:5px;" />
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/plex-name-generator/">Download from Firefox Add-ons</a>
+</div>
+
+<div style="display:flex; align-items:center;">
     <img src="misc_images/edge_icon.png" width="32" height="32" style="margin-right:5px;" />
-    <img src="misc_images/firefox_icon.png" width="32" height="32" />
+    <a href="https://microsoftedge.microsoft.com/addons/detail/dkcokjdoellmmnamamoaolcfknbdiapf">Download from Microsoft Edge Add-ons</a>
 </div>
 
 
