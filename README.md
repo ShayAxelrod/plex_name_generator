@@ -7,23 +7,11 @@
 
 *Plex Name Generator adds a formated string that matches Plex's naming convention. You can click on it to copy to your clipboard.*
 
-<h3 style="margin-bottom:25px; margin-right:5px;">Works on: </h3>
+<h3 style="margin-bottom:25px; margin-right:5px;">Choose your team:</h3>
 
-<div style="display:flex; align-items:center;">
-    <img src="misc_images/chrome_icon.png" width="32" height="32" style="margin-right:5px;" />
-    <a href="https://chromewebstore.google.com/detail/plex-name-generator/hfmhbnmmbfonbbjndbjmkgklhmggecaf">Download from Chrome Web Store</a>
-</div>
-
-<div style="display:flex; align-items:center;">
-    <img src="misc_images/firefox_icon.png" width="32" height="32" style="margin-right:5px;" />
-    <a href="https://addons.mozilla.org/en-US/firefox/addon/plex-name-generator/">Download from Firefox Add-ons</a>
-</div>
-
-<div style="display:flex; align-items:center;">
-    <img src="misc_images/edge_icon.png" width="32" height="32" style="margin-right:5px;" />
-    <a href="https://microsoftedge.microsoft.com/addons/detail/dkcokjdoellmmnamamoaolcfknbdiapf">Download from Microsoft Edge Add-ons</a>
-</div>
-
+[<img src="misc_images/chrome_icon.png" width="64" >](https://chromewebstore.google.com/detail/plex-name-generator/hfmhbnmmbfonbbjndbjmkgklhmggecaf)
+[<img src="misc_images/firefox_icon.png" width="64" >](https://addons.mozilla.org/en-US/firefox/addon/plex-name-generator/)
+[<img src="misc_images/edge_icon.png" width="64" >](https://microsoftedge.microsoft.com/addons/detail/dkcokjdoellmmnamamoaolcfknbdiapf)
 
 <h3>Examples</h3>
 <div style="display:flex; justify-content:center;">
@@ -33,5 +21,5 @@
 </div>
 <hr />
 
-#### If you found this helpful and would like to support future side-projects, you may
+#### <i>If you found this helpful and would like to support future side-projects, you may</i>
 [<img src="misc_images/buy_me_a_coffee.png" width="150">](https://buymeacoffee.com/shayaxelrod)
