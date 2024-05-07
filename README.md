@@ -31,3 +31,7 @@
     <img src="misc_images/example_thetvdb_640_400.png" style="width:30%; margin-right:10px;" />
     <img src="misc_images/example_tmdb_640_400.png" style="width:30%;" />
 </div>
+<hr />
+
+#### If you found this helpful and would like to support future side-projects, you may
+[<img src="misc_images/buy_me_a_coffee.png" width="150">](https://buymeacoffee.com/shayaxelrod)
