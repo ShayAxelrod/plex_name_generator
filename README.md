@@ -10,6 +10,7 @@
 <h3 style="margin-bottom:25px; margin-right:5px;">Choose your team:</h3>
 
 [<img src="misc_images/chrome_icon.png" width="64" >](https://chromewebstore.google.com/detail/plex-name-generator/hfmhbnmmbfonbbjndbjmkgklhmggecaf)
+[<img src="misc_images/brave_icon.png" width="64" >](https://chromewebstore.google.com/detail/plex-name-generator/hfmhbnmmbfonbbjndbjmkgklhmggecaf)
 [<img src="misc_images/firefox_icon.png" width="64" >](https://addons.mozilla.org/en-US/firefox/addon/plex-name-generator/)
 [<img src="misc_images/edge_icon.png" width="64" >](https://microsoftedge.microsoft.com/addons/detail/dkcokjdoellmmnamamoaolcfknbdiapf)
 
