@@ -1,9 +1,10 @@
 function removeSpecialChars(str) {
-    str = str.replace(':', '');
-    str = str.replace('-', ' ');
-    str = str.replace("—", '');
-    str = str.replace("–", '');
-    str = str.replace("'", '');
+    str = str.replaceAll(':', '');
+    str = str.replaceAll('-', ' ');
+    str = str.replaceAll("—", '');
+    str = str.replaceAll("–", '');
+    str = str.replaceAll("'", '');
+    str = str.replaceAll(".", '');
     return str;
 }
 
